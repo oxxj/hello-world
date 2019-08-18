@@ -3,14 +3,14 @@ package com.imooc;
 public class Test {
 
 	/**
-	 * @param args
+	 * @param args 1233234345
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
         Human p1=new Chinese();
-        Human p2=new American();
+        Human p3=new American();
         p1.say();
-        p2.say();
+        p3.say();
 	}
 
 }
